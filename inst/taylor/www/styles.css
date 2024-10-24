@@ -1,0 +1,64 @@
+/* Button Styling */
+.btn-primary {
+  background-color: #B8396B; /* Deep pink */
+  border-color: #B8396B;
+  color: #FFF5CC;
+}
+.btn-primary:hover {
+  background-color: #8C4F66; /* Dark pink */
+  border-color: #8C4F66;
+  color: #E4DFD3;
+}
+
+/* Header Styling */
+.skin-blue .main-header .logo {
+  background-color: #B8396B; /* Deep pink */
+  color: #FFF5CC; /* Light beige */
+  font-weight: bold;
+}
+.skin-blue .main-header .logo:hover {
+  background-color: #8C4F66; /* Dark pink */
+}
+.skin-blue .main-header .navbar {
+  background-color: #B8396B; /* Deep pink */
+}
+
+/* Sidebar Styling */
+.skin-blue .main-sidebar {
+  background-color: #E4DFD3; /* Light beige */
+}
+.skin-blue .sidebar-menu > li.active > a {
+  background-color: #B8396B; /* Deep pink */
+  color: #FFF5CC;
+}
+.skin-blue .sidebar-menu > li > a {
+  color: #B8396B;
+}
+.skin-blue .sidebar-menu > li > a:hover {
+  background-color: #FFF5CC; /* Light beige */
+  color: #B8396B;
+}
+
+/* Body Background */
+.content-wrapper, .right-side {
+  background-color: #FFF5CC; /* Light beige */
+}
+
+/* Box Header Styling */
+.box.box-solid.box-primary > .box-header {
+  background-color: #B8396B; /* Deep pink */
+  color: #FFF5CC;
+  font-weight: bold;
+}
+.box.box-solid.box-primary {
+  border-color: #B8396B;
+}
+.box.box-solid.box-primary > .box-body {
+  background-color: #FFF5CC; /* Light beige */
+  color: #B8396B;
+}
+
+/* Plot Background */
+.plotly-graph-div .main-svg {
+  background-color: #FFF5CC !important;
+}
