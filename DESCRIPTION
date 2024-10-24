@@ -1,13 +1,15 @@
 Package: taylorswift13
-Title: What the Package Does (One Line, Title Case)
+Title: Explore Taylor Swift Songs and Albums
 Version: 0.0.0.9000
 Authors@R: 
     person("Shalini", "Nair", , "snai0031@student.monash.edu", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Description: Analyze and interact with Taylor Swift's discography using this R package..
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.3.1
+RoxygenNote: 7.3.2
 Depends: 
     R (>= 2.10)
+Imports:
+    shiny
 LazyData: true
