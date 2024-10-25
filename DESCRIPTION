@@ -1,9 +1,9 @@
 Package: taylorswift13
-Title: Explore Taylor Swift Songs and Albums
+Title: Taylor Swift Lyrics and Song Data for Taylor Swift's Discography
 Version: 0.0.0.9000
 Authors@R: 
     person("Shalini", "Nair", , "snai0031@student.monash.edu", role = c("aut", "cre"))
-Description: Analyze and interact with Taylor Swift's discography using this R package..
+Description: Provides comprehensive datasets and analysis tools for Taylor Swift's albums and songs, including an interactive Shiny app for data visualization.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
@@ -11,5 +11,16 @@ RoxygenNote: 7.3.2
 Depends: 
     R (>= 2.10)
 Imports:
-    shiny
+    dplyr,
+    DT,
+    ggplot2,
+    plotly,
+    scales,
+    shiny,
+    shinydashboard,
+    tidyr
 LazyData: true
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr

@@ -5,12 +5,25 @@
 \alias{taylor_album}
 \title{Taylor Swift Albums}
 \format{
-A data frame with Taylor Swift albums.
+A data frame with the following columns:
+\describe{
+\item{X}{Row identifier}
+\item{album_name}{Name of the album}
+\item{ep}{Indicates whether the album is an EP (Extended Play)}
+\item{album_release}{Release date of the album}
+\item{metacritic_score}{Metacritic aggregate score for the album}
+\item{user_score}{User-generated score for the album}
+}
 }
 \usage{
-data(taylor_album)
+taylor_album
 }
 \description{
-Taylor Swift Albums
+A data frame listing Taylor Swift's albums.
+}
+\examples{
+data(taylor_album)
+head(taylor_album)
+summary(taylor_album)
 }
 \keyword{datasets}
