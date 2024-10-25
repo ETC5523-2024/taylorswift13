@@ -19,9 +19,19 @@ library(taylorswift13)
 ```
 
 
+
 # Introduction
 
 Welcome to **taylorswift13**! This vignette provides an overview of the package, including how to install it, access datasets, and utilize the Shiny app for data visualization and analysis.
+
+The site is a tribute to Taylor Swift, a renowned singer-songwriter known for her captivating music and storytelling. The package contains datasets on Taylor Swift's albums and songs, enabling fans and analysts to explore her discography in-depth.
+
+
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
+[![pkgdown](https://img.shields.io/badge/pkgdown-website-blue)](https://ETC5523-2024.github.io/taylorswift13/)
+
+
 
 # Installation
 

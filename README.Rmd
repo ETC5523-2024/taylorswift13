@@ -13,11 +13,16 @@ knitr::opts_chunk$set(
 )
 ```
 
-# taylorswift13
+
+# taylorswift13 <a href="https://etc5523-2024.github.io/taylorswift13/"><img src="man/figures/logo.png" align="right" height="139" alt="taylorswift13 website" /></a>
+
+[![pkgdown](https://img.shields.io/badge/pkgdown-website-blue)](https://ETC5523-2024.github.io/taylorswift13/)
 
 ## Description
 
 **taylorswift13** is an R package designed to provide comprehensive data analysis and visualization tools for Taylor Swift's musical works. The package includes detailed datasets on Taylor Swift's albums and songs, along with an interactive Shiny application that allows users to explore various aspects of her discography, such as song characteristics, album metrics, and lyrical content.
+
+
 
 ## Features
 
