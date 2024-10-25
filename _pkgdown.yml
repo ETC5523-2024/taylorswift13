@@ -16,5 +16,5 @@ navbar:
     aria_label: GitHub Repository
 home:
   file: index.md
-extra_css: assets/custom.css
+
 
