@@ -15,7 +15,6 @@ navbar:
   right:
   - icon: fa-github
     href: https://github.com/etc5523-2024/taylorswift13
-    aria_label: GitHub Repository
 home:
   file: index.md
 
