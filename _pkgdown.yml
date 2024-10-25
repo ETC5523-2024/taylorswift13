@@ -1,8 +1,10 @@
 url: https://etc5523-2024.github.io/taylorswift13/
 template:
+  bootstrap: 5
   bootswatch: lux
 navbar:
   title: taylorswift13
+  logo: logo.png
   left:
   - text: Home
     href: index.html
@@ -16,5 +18,4 @@ navbar:
     aria_label: GitHub Repository
 home:
   file: index.md
-
 
