@@ -4,6 +4,7 @@
 # taylorswift13 <a href="https://etc5523-2024.github.io/taylorswift13/"><img src="man/figures/logo.png" align="right" height="139" alt="taylorswift13 website" /></a>
 
 [![pkgdown](https://img.shields.io/badge/pkgdown-website-blue)](https://etc5523-2024.github.io/taylorswift13/)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description
 
@@ -39,7 +40,7 @@ install.packages("remotes")
 Then, install **taylorswift13** using:
 
 ``` r
-remotes::install_github("snair1809/taylorswift13")
+remotes::install_github("ETC5523-2024/taylorswift13")
 ```
 
 ## Usage
