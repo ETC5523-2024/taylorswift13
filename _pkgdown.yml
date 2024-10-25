@@ -1,28 +1,21 @@
 url: https://etc5523-2024.github.io/taylorswift13/
-
-# Template settings
 template:
   bootstrap: 5
-  extra_css: ["assets/custom.css"]  # Ensure this is a list
+  extra_css: ["assets/custom.css"]
 
-# Homepage configuration
-homepage:
-  title: "taylorswift13: Taylor Swift Lyrics and Song Data"
-  description: >
-    taylorswift13 provides comprehensive datasets and analysis tools for Taylor Swift's discography, including album details, song characteristics, and an interactive Shiny application for data exploration.
-  image: "img/hex_sticker.png"  # Path relative to the docs/ directory
-  sections:
-    - title: "Features"
-      contents:
-        - "Comprehensive Datasets: Access detailed information about albums and songs."
-        - "Interactive Shiny App: Explore data dynamically with our built-in application."
-        - "Vignettes: Get started quickly with our step-by-step guides."
-    - title: "Getting Started"
-      contents:
-        - "Installation: Easy setup from GitHub."
-        - "Usage: Load datasets and launch the Shiny app."
+navbar:
+  title: "taylorswift13"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Reference"
+      href: reference/index.html
+    - text: "Articles"
+      href: articles/index.html
+  right:
+    - icon: "fa-github"
+      href: https://github.com/etc5523-2024/taylorswift13
 
-
-
-
+home:
+  file: index.md
 
