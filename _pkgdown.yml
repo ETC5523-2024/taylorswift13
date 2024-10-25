@@ -1,6 +1,5 @@
 url: https://etc5523-2024.github.io/taylorswift13/
 template:
-  bootstrap: 5
   bootswatch: lux
 navbar:
   title: taylorswift13
@@ -17,4 +16,5 @@ navbar:
     aria_label: GitHub Repository
 home:
   file: index.md
+extra_css: assets/custom.css
 
