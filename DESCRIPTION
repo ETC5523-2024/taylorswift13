@@ -22,6 +22,7 @@ Imports:
 LazyData: true
 Suggests: 
     knitr,
+    pkgdown,
     rmarkdown
 VignetteBuilder: knitr
 URL: https://etc5523-2024.github.io/taylorswift13/

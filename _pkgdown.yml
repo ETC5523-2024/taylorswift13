@@ -1,21 +1,20 @@
 url: https://etc5523-2024.github.io/taylorswift13/
 template:
   bootstrap: 5
-  extra_css: ["assets/custom.css"]
-
+  bootswatch: lux
 navbar:
-  title: "taylorswift13"
+  title: taylorswift13
   left:
-    - text: "Home"
-      href: index.html
-    - text: "Reference"
-      href: reference/index.html
-    - text: "Articles"
-      href: articles/index.html
+  - text: Home
+    href: index.html
+  - text: Reference
+    href: reference/index.html
+  - text: Articles
+    href: articles/index.html
   right:
-    - icon: "fa-github"
-      href: https://github.com/etc5523-2024/taylorswift13
-
+  - icon: fa-github
+    href: https://github.com/etc5523-2024/taylorswift13
+    aria_label: GitHub Repository
 home:
   file: index.md
 

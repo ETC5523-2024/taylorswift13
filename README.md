@@ -3,7 +3,7 @@
 
 # taylorswift13 <a href="https://etc5523-2024.github.io/taylorswift13/"><img src="man/figures/logo.png" align="right" height="139" alt="taylorswift13 website" /></a>
 
-[![pkgdown](https://img.shields.io/badge/pkgdown-website-blue)](https://ETC5523-2024.github.io/taylorswift13/)
+[![pkgdown](https://img.shields.io/badge/pkgdown-website-blue)](https://etc5523-2024.github.io/taylorswift13/)
 
 ## Description
 
